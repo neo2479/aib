@@ -63,7 +63,7 @@
                     {
                         "type": "PowerShell",
                         "name": "InstallApps1",
-                        "scriptUri": "https://caprdsamgt1.blob.core.windows.net/aib/AIB-Install-Apps.ps1"
+                        "scriptUri": "https://github.com/neo2479/aib/blob/master/AIB-Install-Apps.ps1"
                     },
                     {
                         "type": "WindowsRestart",
